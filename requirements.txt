@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+playwright
+pandas
+jupyter
+streamlit
+plotly
+anthropic
+python-dotenv
