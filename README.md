@@ -21,7 +21,7 @@ This project investigates what they're hiding and why.
 -  Published findings on Medium
 
 ## Tech Stack
-Python · Selenium · Pandas · Claude API · Plotly · Streamlit
+Python · Selenium · Pandas · Groq API (Llama 3.3) · Plotly · Streamlit
 
 ## Data
 - 115 job listings scraped May 2026
@@ -31,14 +31,19 @@ Python · Selenium · Pandas · Claude API · Plotly · Streamlit
 ## Progress
 - [x] Day 1 — Project setup + environment
 - [x] Day 2 — Scraper built, 115 jobs collected, 0% disclosure found
-- [ ] Day 3 — LLM extracts skills + seniority from job descriptions
+- [x] Day 3 — Groq LLM extracted skills + seniority — 100% hidden rate confirmed across all company types and seniority levels
 - [ ] Day 4 — Analysis: who hides pay and why
 - [ ] Day 5 — Visualizations + key findings
 - [ ] Day 6 — Streamlit app + Medium article published
 
-## Early Finding
-**0 out of 115 companies disclosed salary.**
-Including Amazon, Google, Apple, and Wipro.
+## Findings So Far
+**100% salary hidden rate — no exceptions.**
+- MNCs (Amazon, Google, Apple, Wipro) → 100% hidden
+- Startups → 100% hidden
+- Junior roles → 100% hidden
+- Senior/Manager roles → 100% hidden
+
+Top skills demanded while hiding pay: AI, ML, Power BI, Python, Snowflake
 
 ## Author
 Built as an original research project — dataset created 
