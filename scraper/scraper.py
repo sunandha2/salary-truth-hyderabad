@@ -108,8 +108,8 @@ def scrape_linkedin_jobs(query, driver, max_jobs=40):
     return jobs
 
 def main():
-    print("🚀 Starting LinkedIn job scraper...")
-    print("⚠️  Do NOT close the browser window that opens\n")
+    print(" Starting LinkedIn job scraper...")
+    print("  Do NOT close the browser window that opens\n")
     
     driver = init_driver()
     all_jobs = []

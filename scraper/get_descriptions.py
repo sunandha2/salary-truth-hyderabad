@@ -6,7 +6,7 @@ import pandas as pd
 import time
 import random
 
-print("📄 Fetching job descriptions...")
+print(" Fetching job descriptions...")
 
 df = pd.read_csv('data/clean_jobs.csv')
 print(f"Jobs to fetch: {len(df)}")
@@ -48,11 +48,11 @@ for i, row in df.iterrows():
                 desc = "Could not fetch"
         
         descriptions.append(desc[:2000])  # cap at 2000 chars
-        print(f"  ✅ {i+1}/{len(df)}: {row['title'][:40]}")
+        print(f"   {i+1}/{len(df)}: {row['title'][:40]}")
         
     except Exception as e:
         descriptions.append("Could not fetch")
-        print(f"  ❌ {i+1}/{len(df)}: {e}")
+        print(f"   {i+1}/{len(df)}: {e}")
     
     time.sleep(random.uniform(2, 4))
 
@@ -62,5 +62,5 @@ df['description'] = descriptions
 df.to_csv('data/jobs_with_descriptions.csv', index=False)
 
 fetched = len([d for d in descriptions if d not in ['N/A', 'Could not fetch']])
-print(f"\n✅ Descriptions fetched: {fetched}/{len(df)}")
-print(f"✅ Saved to data/jobs_with_descriptions.csv")
+print(f"\n Descriptions fetched: {fetched}/{len(df)}")
+print(f"Saved to data/jobs_with_descriptions.csv")

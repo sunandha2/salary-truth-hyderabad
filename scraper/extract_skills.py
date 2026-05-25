@@ -74,11 +74,11 @@ def main():
     # Load data
     try:
         df = pd.read_csv('data/jobs_with_descriptions.csv')
-        print(f"✅ Loaded jobs with descriptions: {len(df)}")
+        print(f"Loaded jobs with descriptions: {len(df)}")
     except:
         df = pd.read_csv('data/clean_jobs.csv')
         df['description'] = 'N/A'
-        print(f"✅ Loaded clean jobs (no descriptions): {len(df)}")
+        print(f"Loaded clean jobs (no descriptions): {len(df)}")
     
     # Add company type classification
     df['company_type'] = df['company'].apply(classify_company_type)
@@ -87,7 +87,7 @@ def main():
     print(df['company_type'].value_counts())
     
     # Extract with LLM
-    print(f"\n🤖 Extracting skills with Groq LLM...")
+    print(f"\n Extracting skills with Groq LLM...")
     
     results = []
     for i, row in df.iterrows():
@@ -119,8 +119,8 @@ def main():
     
     results_df.to_csv('data/processed_jobs.csv', index=False)
     
-    print(f"\n✅ Processed {len(results_df)} jobs")
-    print(f"\n📊 KEY FINDING:")
+    print(f"\n Processed {len(results_df)} jobs")
+    print(f"\n KEY FINDING:")
     print(f"Salary hidden rate: {results_df['salary_hidden'].mean()*100:.1f}%")
     
     print(f"\nBy company type:")
