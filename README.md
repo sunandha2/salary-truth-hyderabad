@@ -32,8 +32,8 @@ Python · Selenium · Pandas · Groq API (Llama 3.3) · Plotly · Streamlit
 - [x] Day 1 — Project setup + environment
 - [x] Day 2 — Scraper built, 115 jobs collected, 0% disclosure found
 - [x] Day 3 — Groq LLM extracted skills + seniority — 100% hidden rate confirmed across all company types and seniority levels
-- [ ] Day 4 — Analysis: who hides pay and why
-- [ ] Day 5 — Visualizations + key findings
+- [x] Day 4 — 5 visualizations built (headline, company type, seniority, skills, skills vs transparency)
+- [ ] Day 5 — Streamlit app + Medium article published
 - [ ] Day 6 — Streamlit app + Medium article published
 
 ## Findings So Far
@@ -44,6 +44,15 @@ Python · Selenium · Pandas · Groq API (Llama 3.3) · Plotly · Streamlit
 - Senior/Manager roles → 100% hidden
 
 Top skills demanded while hiding pay: AI, ML, Power BI, Python, Snowflake
+
+## Visualizations Built
+| Chart | Finding |
+|---|---|
+| Salary Disclosure Rate | 0% disclosed, 100% hidden |
+| MNC vs Startup | Both hide 100% — no difference |
+| By Seniority | Junior to Manager — all hide 100% |
+| Top Skills Demanded | AI, ML, Power BI, Python, Snowflake |
+| Skills vs Transparency | More skills demanded = still 100% hidden |
 
 ## Author
 Built as an original research project — dataset created 
