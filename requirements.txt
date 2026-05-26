@@ -1,9 +1,5 @@
-requests
-beautifulsoup4
-playwright
-pandas
-jupyter
 streamlit
+pandas
 plotly
-anthropic
+groq
 python-dotenv
