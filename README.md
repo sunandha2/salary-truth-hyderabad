@@ -8,6 +8,9 @@ Not a single company — including Amazon, Google, Apple,
 and Wipro — disclosed salary in their Hyderabad job listings.
 This project investigates what they're hiding and why.
 
+## Live App
+🔗 https://salary-truth-hyderabad-u7xaqwxhs2pyiuc5hmeje2.streamlit.app/
+
 ## Research Questions
 - Do MNCs hide salary more than Indian startups?
 - Do senior roles hide compensation more than junior ones?
@@ -33,7 +36,7 @@ Python · Selenium · Pandas · Groq API (Llama 3.3) · Plotly · Streamlit
 - [x] Day 2 — Scraper built, 115 jobs collected, 0% disclosure found
 - [x] Day 3 — Groq LLM extracted skills + seniority — 100% hidden rate confirmed across all company types and seniority levels
 - [x] Day 4 — 5 visualizations built (headline, company type, seniority, skills, skills vs transparency)
-- [ ] Day 5 — Streamlit app + Medium article published
+- [x] Day 5 — Streamlit app + Medium article published
 - [ ] Day 6 — Streamlit app + Medium article published
 
 ## Findings So Far
