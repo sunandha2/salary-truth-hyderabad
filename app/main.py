@@ -68,7 +68,7 @@ df = load_data()
 
 # ── SIDEBAR ────────────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("## 💰 Salary Truth")
+    st.markdown("## Salary Truth")
     st.markdown("*Hyderabad Data Jobs — May 2026*")
     st.markdown("---")
 
@@ -164,7 +164,7 @@ if "Finding" in page:
 
 # ── PAGE 2: DEEP ANALYSIS ──────────────────────────────────────
 elif "Analysis" in page:
-    st.markdown("#  Deep Analysis")
+    st.markdown("# Deep Analysis")
     st.markdown("*Does anything change the hiding rate? No.*")
     st.markdown("---")
 
@@ -236,7 +236,7 @@ elif "Analysis" in page:
 
 # ── PAGE 3: COMPANY EXPLORER ───────────────────────────────────
 elif "Company" in page:
-    st.markdown("# 💼 Company Explorer")
+    st.markdown("#  Company Explorer")
     st.markdown("*Browse all companies — every single one hides salary*")
     st.markdown("---")
 
@@ -251,7 +251,7 @@ elif "Company" in page:
         listings=('title', 'count'),
         roles=('title', lambda x: ', '.join(x.unique()[:3]))
     ).reset_index()
-    company_summary['salary_hidden'] = '🔒 100%'
+    company_summary['salary_hidden'] = ' 100%'
     company_summary.columns = ['Company', 'Type', 'Listings', 'Sample Roles', 'Salary']
     company_summary = company_summary.sort_values('Listings', ascending=False)
 
@@ -262,7 +262,7 @@ elif "Company" in page:
 
 # ── PAGE 4: SKILLS DEMANDED ────────────────────────────────────
 elif "Skills" in page:
-    st.markdown("# 🛠️ Skills Demanded While Hiding Salary")
+    st.markdown("#  Skills Demanded While Hiding Salary")
     st.markdown("*What they want — but won't tell you what they'll pay for*")
     st.markdown("---")
 
@@ -304,7 +304,7 @@ elif "Skills" in page:
         what they'll pay for them. You're expected to negotiate blind.
     </div>""", unsafe_allow_html=True)
 
-    st.markdown("### 📋 All Jobs with Skills")
+    st.markdown("### All Jobs with Skills")
     display_df = df[['title', 'company', 'company_type', 'seniority', 'skills_str']].copy()
     display_df.columns = ['Title', 'Company', 'Type', 'Seniority', 'Skills']
     st.dataframe(display_df, use_container_width=True, hide_index=True)
