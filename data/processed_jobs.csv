@@ -1,0 +1,116 @@
+title,company,company_type,salary_hidden,search_query,seniority,years_exp_min,years_exp_max,skills,management_role,domain,education_required,num_skills,skills_str
+"Business Analyst, Amazon Customer Service",Amazon,MNC,True,business analyst Hyderabad,Senior,0,0,"['Data Analytics', 'Next Generation Analytics Technologies', 'Data Platforms', 'Analytical Tools']",False,ecommerce,Not mentioned,4,"Data Analytics, Next Generation Analytics Technologies, Data Platforms, Analytical Tools"
+Business Analyst,enGen Global,Startup/SME,True,business analyst Hyderabad,Junior/Mid,0,0,[],False,healthcare,Not mentioned,0,
+Business Analyst,APPIT Software Inc,Startup/SME,True,business analyst Hyderabad,Junior/Mid,1,3,[],False,general,Not mentioned,0,
+Business Analyst,LETITBEX AI,Startup/SME,True,business analyst Hyderabad,Mid,3,6,"['AI', 'Data Engineering', 'Cloud', 'Business Transformation', 'Data Analysis']",False,general,Not mentioned,5,"AI, Data Engineering, Cloud, Business Transformation, Data Analysis"
+Business Analyst - Travel Domain,TETRAHED INC,Startup/SME,True,business analyst Hyderabad,Senior,4,0,"['Jira', 'Kanban', 'Wireframing', 'AI', 'UAT', 'Requirement Gathering', 'Stakeholder Collaboration', 'RTM']",False,logistics,Not mentioned,8,"Jira, Kanban, Wireframing, AI, UAT, Requirement Gathering, Stakeholder Collaboration, RTM"
+Business Analyst,Northbridge University English,Startup/SME,True,business analyst Hyderabad,Junior,0,0,[],False,general,Not mentioned,0,
+Business Analyst - Integrations,Cendyn,Startup/SME,True,business analyst Hyderabad,Junior/Mid,0,0,[],False,general,Not mentioned,0,
+Business Analyst (EDI),Quadrant IT Services,Startup/SME,True,business analyst Hyderabad,Junior/Mid,0,0,['EDI'],False,logistics,Not mentioned,1,EDI
+Senior Business Analyst,ValueMomentum,Startup/SME,True,business analyst Hyderabad,Senior,0,0,[],False,general,Not mentioned,0,
+Senior Business Analyst,Kanerika Inc,Startup/SME,True,business analyst Hyderabad,Senior,0,0,[],False,general,Not mentioned,0,
+Business Analyst,NebuLogic Technologies,Startup/SME,True,business analyst Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+Business Analyst & Project Manager,Weekday (YC W21),Startup/SME,True,business analyst Hyderabad,Manager,0,0,[],True,general,Not mentioned,0,
+Manager/Lead Business Analyst (14-22 yrs) - Immediate joiners - Hyderabad - Hybrid,SS&C Technologies,Startup/SME,True,business analyst Hyderabad,Manager/Lead,14,22,[],True,fintech,Not mentioned,0,
+Business Analyst,bluecopa,Startup/SME,True,business analyst Hyderabad,Junior/Mid,0,0,[],False,general,Not mentioned,0,
+"Business Analyst, JWO",Amazon Web Services (AWS),MNC,True,business analyst Hyderabad,Junior,0,0,[],False,general,Not mentioned,0,
+Business Analyst,Tectoro Consulting Pvt. Ltd.,Startup/SME,True,business analyst Hyderabad,Junior,0,0,[],False,general,Not mentioned,0,
+"Business Analyst, Marketplace Recruitment & Dev",Amazon,MNC,True,business analyst Hyderabad,Junior/Mid,0,0,[],False,ecommerce,Not mentioned,0,
+Murex Business Analyst (BA),Unison Group,Startup/SME,True,business analyst Hyderabad,Junior/Mid/Senior,0,0,['Murex'],False,fintech,Not mentioned,1,Murex
+Senior Business Analyst - GO/JC/2653/2026,Golden Opportunities,Startup/SME,True,business analyst Hyderabad,Senior,0,0,[],False,general,Not mentioned,0,
+Business Analyst - Assistant Manager,State Street,Startup/SME,True,business analyst Hyderabad,Manager,0,0,[],True,fintech,Not mentioned,0,
+Business Analyst,Macquarie Group,Startup/SME,True,business analyst Hyderabad,Junior/Mid,0,0,[],False,fintech,Not mentioned,0,
+Remote Business Analyst,Turing,Startup/SME,True,business analyst Hyderabad,Junior,0,0,[],False,general,Not mentioned,0,
+Business Analyst,Verisk,Startup/SME,True,business analyst Hyderabad,Junior,0,0,[],False,general,Not mentioned,0,
+ServiceNow Business Analyst,Horizontal Talent,Startup/SME,True,business analyst Hyderabad,Junior/Mid/Senior,0,0,['ServiceNow'],False,general,Not mentioned,1,ServiceNow
+BUSINESS ANALYST L5,Wipro,MNC,True,business analyst Hyderabad,Senior,0,0,[],False,general,Not mentioned,0,
+Digital Finance Business Analyst,Lonza,MNC,True,business analyst Hyderabad,Junior/Mid,0,0,[],False,healthcare,Not mentioned,0,
+Business Analyst,Kroll,Startup/SME,True,business analyst Hyderabad,Junior/Mid,0,0,[],False,general,Not mentioned,0,
+BUSINESS ANALYST L3,Wipro,MNC,True,business analyst Hyderabad,Senior,0,0,[],False,general,Not mentioned,0,
+Remote Business Analyst (Economics/Finance) - 78765,Turing,Startup/SME,True,business analyst Hyderabad,Junior/Mid,0,0,"['Economics', 'Finance']",False,fintech,Not mentioned,2,"Economics, Finance"
+Business Analyst / QA,DataBeat,Startup/SME,True,business analyst Hyderabad,Junior/Mid,0,0,[],False,general,Not mentioned,0,
+Senior Business Analyst,EHNOTE,Startup/SME,True,business analyst Hyderabad,Senior,0,0,[],False,general,Not mentioned,0,
+Business Data Scientist,Google,MNC,True,data scientist Hyderabad,Senior,0,0,[],False,general,Not mentioned,0,
+Data Scientist,The HEINEKEN Company,MNC,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+"Data Scientist (Hyderabad, India)",Kline + Company,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+AI/ML Lead,OwlSure,Startup/SME,True,data scientist Hyderabad,Lead,0,0,"['AI', 'ML']",True,general,Not mentioned,2,"AI, ML"
+"Data Scientist - ML, Python",HCLTech,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,"['Python', 'ML']",False,general,Not mentioned,2,"Python, ML"
+Data Scientist 2,Microsoft,MNC,True,data scientist Hyderabad,Mid,0,0,[],False,general,Not mentioned,0,
+AI / ML Lead,Tectoro Consulting Pvt. Ltd.,Startup/SME,True,data scientist Hyderabad,Lead,0,0,"['AI', 'ML']",True,general,Not mentioned,2,"AI, ML"
+Data Scientist,ZestIoT,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+Data Scientist - Data & Analytics,The Hartford India,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,fintech,Not mentioned,0,
+Data Scientist,Tezo,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+ML Data Scientist,Apple,MNC,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,['Machine Learning'],False,general,Not mentioned,1,Machine Learning
+Data Scientist,HCLTech,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+Data Scientist,Birlasoft,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+Tech AI Lead,JRD Systems,Startup/SME,True,data scientist Hyderabad,Lead,0,0,[],True,general,Not mentioned,0,
+Data Scientist,Lonza,MNC,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,healthcare,Not mentioned,0,
+Data Scientist,NxtWave,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+Lead Data Scientist,The HEINEKEN Company,MNC,True,data scientist Hyderabad,Lead,0,0,[],True,general,Not mentioned,0,
+Data Scientist (Senior),Quantium,Startup/SME,True,data scientist Hyderabad,Senior,0,0,[],False,general,Not mentioned,0,
+Data Scientist,Apple,MNC,True,data scientist Hyderabad,Junior,0,0,[],False,general,Not mentioned,0,
+Staff Data Scientist,Cohere Health,Startup/SME,True,data scientist Hyderabad,Senior,0,0,[],False,healthcare,Not mentioned,0,
+Quantum Research Scientist with Python - Freelance AI Trainer,Mindrift,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,"['Python', 'Quantum Research']",False,general,Not mentioned,2,"Python, Quantum Research"
+"Python Data Engineer-Hyderabad,Bengaluru,Pune,Chennai",Deloitte,MNC,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,['Python'],False,general,Not mentioned,1,Python
+QA Engineer,SoftClouds,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+DE-Data Scientist-VG-W4-CDAO0217,EY,MNC,True,data scientist Hyderabad,Junior/Mid,0,0,[],False,general,Not mentioned,0,
+Machine Learning Engineer,S&P Global,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,['Machine Learning'],False,fintech,Not mentioned,1,Machine Learning
+Senior Data Scientist,Zeta Global,Startup/SME,True,data scientist Hyderabad,Senior,0,0,[],False,general,Not mentioned,0,
+Data Scientist 1,FedEx,MNC,True,data scientist Hyderabad,Junior,0,0,[],False,logistics,Not mentioned,0,
+AI ML Engineer - Data & Analytics,The Hartford India,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,"['AI', 'ML', 'Data', 'Analytics']",False,fintech,Not mentioned,4,"AI, ML, Data, Analytics"
+ML Engineer (Classical ML + GenAI),ThinkWise Consulting LLP,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,"['Classical ML', 'GenAI']",False,general,Not mentioned,2,"Classical ML, GenAI"
+"Lead Data Scientist (Hyderabad, India)",Kline + Company,Startup/SME,True,data scientist Hyderabad,Lead,0,0,[],True,general,Not mentioned,0,
+Data Scientist,EverestDX Inc,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+Machine Learning Engineer,Grid Dynamics,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+Gen AI Data Scientist - PAN INDIA,Tata Consultancy Services,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+Software Engineer,Microsoft,MNC,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+Machine Learning Engineer,Deccan AI,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,['Machine Learning'],False,general,Not mentioned,1,Machine Learning
+Data scientist,Qualcomm,Startup/SME,True,data scientist Hyderabad,Junior,0,0,[],False,general,Not mentioned,0,
+AI Application Development Manager,QualiZeal,Startup/SME,True,data scientist Hyderabad,Manager,0,0,[],True,general,Not mentioned,0,
+"Business Data Scientist, YouTube Trust and Safety",Google,MNC,True,data scientist Hyderabad,Senior,0,0,[],False,general,Not mentioned,0,
+"Engineer- ML Model Development,Pytorch,Numphy",Qualcomm,Startup/SME,True,data scientist Hyderabad,Junior/Mid/Senior,0,0,"['Pytorch', 'Numphy', 'ML']",False,general,Not mentioned,3,"Pytorch, Numphy, ML"
+"Analytics Engineer, India",DoorDash,Startup/SME,True,analytics engineer Hyderabad,Junior/Mid/Senior,0,0,[],False,logistics,Not mentioned,0,
+"Data Analysts, ETL, SQL, Informatica",Infosys,MNC,True,analytics engineer Hyderabad,Junior/Mid/Senior,0,0,"['ETL', 'SQL', 'Informatica']",False,general,Not mentioned,3,"ETL, SQL, Informatica"
+Data & BI Engineer,Health Catalyst,Startup/SME,True,analytics engineer Hyderabad,Junior/Mid,0,0,[],False,healthcare,Not mentioned,0,
+Cslt-Business Intelligence,Verizon,Startup/SME,True,analytics engineer Hyderabad,Senior,0,0,[],False,general,Not mentioned,0,
+Data Analyst,Creditsafe Technology,Startup/SME,True,analytics engineer Hyderabad,Junior,0,0,[],False,fintech,Not mentioned,0,
+Software Engineer - AI and Data Platforms,Apple,MNC,True,analytics engineer Hyderabad,Junior/Mid/Senior,0,0,"['AI', 'Data Platforms']",False,general,Not mentioned,2,"AI, Data Platforms"
+Data Engineer,The HEINEKEN Company,MNC,True,analytics engineer Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+Business Intelligence (BI) Administrator,Infosys,MNC,True,analytics engineer Hyderabad,Junior/Mid,0,0,['Business Intelligence'],False,general,Not mentioned,1,Business Intelligence
+"Senior Engineer I, Data & Analytics",Invesco,Startup/SME,True,analytics engineer Hyderabad,Senior,0,0,[],False,fintech,Not mentioned,0,
+Data Analyst,hackajob,Startup/SME,True,analytics engineer Hyderabad,Junior/Mid,0,0,[],False,general,Not mentioned,0,
+Data Engineer,Capgemini,Startup/SME,True,analytics engineer Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+Data Engineer I,Bristol Myers Squibb,Startup/SME,True,analytics engineer Hyderabad,Junior,0,0,[],False,healthcare,Not mentioned,0,
+Data Analytics Developer,Jade Global,Startup/SME,True,analytics engineer Hyderabad,Junior/Mid,0,0,[],False,general,Not mentioned,0,
+Data Engineer & BI,Regal Rexnord,Startup/SME,True,analytics engineer Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+"Software Engineer, Data Engineer II",DoorDash,Startup/SME,True,analytics engineer Hyderabad,Mid,0,0,[],False,logistics,Not mentioned,0,
+"Business Intelligence Engineer, Last Mile Analytics",Amazon,MNC,True,analytics engineer Hyderabad,Mid,0,0,[],False,logistics,Not mentioned,0,
+Data Engineer – Databricks,Zorba AI,Startup/SME,True,analytics engineer Hyderabad,Junior/Mid/Senior,0,0,['Databricks'],False,general,Not mentioned,1,Databricks
+Snowflake Data Engineer,Anblicks,Startup/SME,True,analytics engineer Hyderabad,Junior/Mid/Senior,0,0,['Snowflake'],False,general,Not mentioned,1,Snowflake
+"Data Engineer, ShipTech Analytics",Amazon,MNC,True,analytics engineer Hyderabad,Junior/Mid/Senior,0,0,[],False,logistics,Not mentioned,0,
+Senior Analytics Engineer,Deliveroo,Startup/SME,True,analytics engineer Hyderabad,Senior,0,0,[],False,logistics,Not mentioned,0,
+Analyst,MNC Group,Startup/SME,True,analytics engineer Hyderabad,Junior,0,0,[],False,general,Not mentioned,0,
+Data Analyst,Keka HR,Startup/SME,True,analytics engineer Hyderabad,Junior,0,0,[],False,general,Not mentioned,0,
+Associate Vice President - Senior Lead Data Engineer [T500-26100],Deutsche Börse Group,Startup/SME,True,analytics engineer Hyderabad,Lead,0,0,[],True,fintech,Not mentioned,0,
+Data Engineer,Tata Consultancy Services,Startup/SME,True,analytics engineer Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+Data Analyst,BeWorld,Startup/SME,True,analytics engineer Hyderabad,Junior,0,0,[],False,general,Not mentioned,0,
+BI Developer,Experian,Startup/SME,True,BI analyst Hyderabad,Junior/Mid,0,0,[],False,general,Not mentioned,0,
+Reporting Analyst - Power BI Development [T500-25841],Holman,Startup/SME,True,BI analyst Hyderabad,Junior/Mid,0,0,['Power BI'],False,general,Not mentioned,1,Power BI
+Business Intelligence Analyst,FedEx,MNC,True,BI analyst Hyderabad,Junior,0,0,[],False,logistics,Not mentioned,0,
+Business Intelligence Analyst-Senior,FedEx,MNC,True,BI analyst Hyderabad,Senior,0,0,[],False,logistics,Not mentioned,0,
+Associate BI Developer,MetLife,Startup/SME,True,BI analyst Hyderabad,Junior,0,0,[],False,fintech,Not mentioned,0,
+Business Intelligence Developer,Quest Global,Startup/SME,True,BI analyst Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+Business Intelligence Analyst,Enovis,Startup/SME,True,BI analyst Hyderabad,Junior/Mid,0,0,[],False,general,Not mentioned,0,
+"Senior Data & BI Analyst (MS Power BI, Snowflake)",Franklin Templeton India,Startup/SME,True,BI analyst Hyderabad,Senior,0,0,"['MS Power BI', 'Snowflake']",False,fintech,Not mentioned,2,"MS Power BI, Snowflake"
+Business Intelligence (BI) Support Analyst,Comstor Europe,Startup/SME,True,BI analyst Hyderabad,Junior,0,0,[],False,general,Not mentioned,0,
+Senior BI Analyst [T500-25512],Visy,Startup/SME,True,BI analyst Hyderabad,Senior,0,0,[],False,logistics,Not mentioned,0,
+Business Intelligence Developer,Concentrix,Startup/SME,True,BI analyst Hyderabad,Junior/Mid/Senior,0,0,[],False,general,Not mentioned,0,
+"Business Analyst II, Selling Partner Trust Analytics",Amazon,MNC,True,BI analyst Hyderabad,Mid,0,0,[],False,ecommerce,Not mentioned,0,
+Business Data Analyst,Candescent,Startup/SME,True,BI analyst Hyderabad,Junior/Mid,0,0,[],False,general,Not mentioned,0,
+Senior BI Analyst (Tableau and Snowflake),Blend,Startup/SME,True,BI analyst Hyderabad,Senior,0,0,"['Tableau', 'Snowflake']",False,fintech,Not mentioned,2,"Tableau, Snowflake"
+Power BI Developer (Freelancer),Deccan AI Experts,Startup/SME,True,BI analyst Hyderabad,Junior/Mid/Senior,0,0,['Power BI'],False,general,Not mentioned,1,Power BI
+"Business Data Analyst (Bangkok Based, relocation provided)",Agoda,Startup/SME,True,BI analyst Hyderabad,Junior/Mid,0,0,[],False,general,Not mentioned,0,
+Advanced Analytics Analyst(Power BI & Power Platform),Medtronic,Startup/SME,True,BI analyst Hyderabad,Senior,0,0,"['Power BI', 'Power Platform']",False,healthcare,Not mentioned,2,"Power BI, Power Platform"
+Power BI Developer - Fabric,Alliance One,Startup/SME,True,BI analyst Hyderabad,Junior/Mid,0,0,['Power BI'],False,general,Not mentioned,1,Power BI
+SAP BI Support Analyst - BW & BusinessObjects (WebI),Westcon-Comstor,Startup/SME,True,BI analyst Hyderabad,Junior/Mid,0,0,"['SAP BI', 'BW', 'BusinessObjects', 'WebI']",False,general,Not mentioned,4,"SAP BI, BW, BusinessObjects, WebI"
+BUSINESS ANALYST L4,Wipro,MNC,True,BI analyst Hyderabad,Senior,0,0,[],False,general,Not mentioned,0,
