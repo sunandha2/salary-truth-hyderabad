@@ -37,7 +37,7 @@ Python · Selenium · Pandas · Groq API (Llama 3.3) · Plotly · Streamlit
 - [x] Day 3 — Groq LLM extracted skills + seniority — 100% hidden rate confirmed across all company types and seniority levels
 - [x] Day 4 — 5 visualizations built (headline, company type, seniority, skills, skills vs transparency)
 - [x] Day 5 — Streamlit app + Medium article published
-- [ ] Day 6 — Streamlit app + Medium article published
+- [x] Day 6 — Streamlit app + Medium article published
 
 ## Findings So Far
 **100% salary hidden rate — no exceptions.**
