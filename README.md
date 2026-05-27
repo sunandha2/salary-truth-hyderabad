@@ -11,6 +11,9 @@ This project investigates what they're hiding and why.
 ## Live App
 🔗 https://salary-truth-hyderabad-u7xaqwxhs2pyiuc5hmeje2.streamlit.app/
 
+## Published Research
+Medium: https://medium.com/p/9a27e126fe68
+
 ## Research Questions
 - Do MNCs hide salary more than Indian startups?
 - Do senior roles hide compensation more than junior ones?
