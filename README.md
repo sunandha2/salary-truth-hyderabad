@@ -36,7 +36,7 @@ Python · Selenium · Pandas · Groq API (Llama 3.3) · Plotly · Streamlit
 - [x] Day 2 — Scraper built, 115 jobs collected, 0% disclosure found
 - [x] Day 3 — Groq LLM extracted skills + seniority — 100% hidden rate confirmed across all company types and seniority levels
 - [x] Day 4 — 5 visualizations built (headline, company type, seniority, skills, skills vs transparency)
-- [x] Day 5 — Streamlit app + Medium article published
+- [x] Day 5 — Live deployment URL added
 - [x] Day 6 — Streamlit app + Medium article published
 
 ## Findings So Far
